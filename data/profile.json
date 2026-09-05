@@ -24,15 +24,15 @@
     ],
     [
       "Acesso",
-      "Casbin RBAC · pacotes por empresa · auditoria"
+      "RBAC por papel e por empresa · trilha de auditoria"
     ],
     [
       "Canais",
-      "WhatsApp Cloud API · Evolution · Telegram MTProto"
+      "WhatsApp Cloud API · Telegram · integrações por webhook"
     ],
     [
       "Infra",
-      "Docker · Coolify · Cloudflare R2 · GitHub Actions"
+      "Docker · GitHub Actions · CI/CD · object storage"
     ],
     [
       "Também",
@@ -45,6 +45,10 @@
     [
       "GitHub",
       "desde setembro de 2023 · commits quase todo dia"
+    ],
+    [
+      "Contato",
+      "erick.alvesnascimento12@gmail.com"
     ]
   ],
   "languages": [

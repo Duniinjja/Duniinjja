@@ -1,0 +1,4 @@
+# So' para regerar o retrato ASCII localmente, quando a foto muda.
+# (o workflow diario nao precisa disto)
+pillow>=11
+numpy>=2

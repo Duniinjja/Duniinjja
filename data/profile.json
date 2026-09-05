@@ -1,0 +1,77 @@
+{
+  "title": "erick@duniinjja",
+  "subtitle": "dev full-stack · Brasil",
+  "rows": [
+    [
+      "Agora",
+      "Construindo um CRM multi-tenant (SaaS) ponta a ponta"
+    ],
+    [
+      "Foco",
+      "Multi-tenant, permissões e tempo real"
+    ],
+    [
+      "Front",
+      "React 18 · Vite 5 · TypeScript · Tailwind · TanStack Query"
+    ],
+    [
+      "Back",
+      "Node · Express · Prisma · PostgreSQL · Redis · BullMQ"
+    ],
+    [
+      "Tempo real",
+      "Socket.io · filas · webhooks"
+    ],
+    [
+      "Acesso",
+      "Casbin RBAC · pacotes por empresa · auditoria"
+    ],
+    [
+      "Canais",
+      "WhatsApp Cloud API · Evolution · Telegram MTProto"
+    ],
+    [
+      "Infra",
+      "Docker · Coolify · Cloudflare R2 · GitHub Actions"
+    ],
+    [
+      "Também",
+      "Python · automação · bots"
+    ],
+    [
+      "Ferramentas",
+      "VS Code · Claude Code · Docker Desktop"
+    ],
+    [
+      "GitHub",
+      "desde setembro de 2023 · commits quase todo dia"
+    ]
+  ],
+  "languages": [
+    [
+      "TypeScript",
+      "#3178c6",
+      58
+    ],
+    [
+      "Python",
+      "#3572A5",
+      16
+    ],
+    [
+      "SQL",
+      "#e38c00",
+      12
+    ],
+    [
+      "CSS",
+      "#563d7c",
+      9
+    ],
+    [
+      "HTML",
+      "#e34c26",
+      5
+    ]
+  ]
+}

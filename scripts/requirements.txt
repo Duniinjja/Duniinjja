@@ -1,0 +1,2 @@
+# Dependencia do que roda todo dia no GitHub Actions.
+requests==2.32.3

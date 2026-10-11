@@ -1,21 +1,21 @@
 {
   "user": "Duniinjja",
-  "generated_at": "2026-10-10T06:44:57+00:00",
+  "generated_at": "2026-10-11T06:46:01+00:00",
   "range": {
-    "from": "2025-10-05",
-    "to": "2026-10-10"
+    "from": "2025-10-12",
+    "to": "2026-10-11"
   },
   "stats": {
-    "total": 6097,
-    "active_days": 259,
+    "total": 6131,
+    "active_days": 260,
     "busiest_weekday": "segunda",
-    "current_streak": 73,
-    "longest_streak": 73,
+    "current_streak": 74,
+    "longest_streak": 74,
     "best_day": {
       "date": "2026-07-15",
       "count": 114
     },
-    "average_per_active_day": 23.5
+    "average_per_active_day": 23.6
   },
   "months": {
     "2025-10": 0,
@@ -30,44 +30,9 @@
     "2026-07": 1610,
     "2026-08": 642,
     "2026-09": 619,
-    "2026-10": 409
+    "2026-10": 443
   },
   "days": [
-    {
-      "date": "2025-10-05",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-06",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-07",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-08",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-09",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-10",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-11",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-10-12",
       "level": 0,
@@ -1881,12 +1846,17 @@
     {
       "date": "2026-10-09",
       "level": 1,
-      "count": 22
+      "count": 25
     },
     {
       "date": "2026-10-10",
+      "level": 2,
+      "count": 32
+    },
+    {
+      "date": "2026-10-11",
       "level": 1,
-      "count": 2
+      "count": 1
     }
   ]
 }

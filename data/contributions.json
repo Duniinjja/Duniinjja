@@ -1,21 +1,21 @@
 {
   "user": "Duniinjja",
-  "generated_at": "2026-11-25T06:33:08+00:00",
+  "generated_at": "2026-11-26T06:32:59+00:00",
   "range": {
     "from": "2025-11-23",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
   },
   "stats": {
-    "total": 8583,
-    "active_days": 299,
+    "total": 8637,
+    "active_days": 300,
     "busiest_weekday": "segunda",
-    "current_streak": 40,
+    "current_streak": 41,
     "longest_streak": 77,
     "best_day": {
       "date": "2026-02-05",
       "count": 146
     },
-    "average_per_active_day": 28.7
+    "average_per_active_day": 28.8
   },
   "months": {
     "2025-11": 16,
@@ -30,7 +30,7 @@
     "2026-08": 650,
     "2026-09": 668,
     "2026-10": 923,
-    "2026-11": 818
+    "2026-11": 872
   },
   "days": [
     {
@@ -1866,10 +1866,15 @@
     {
       "date": "2026-11-24",
       "level": 3,
-      "count": 58
+      "count": 69
     },
     {
       "date": "2026-11-25",
+      "level": 2,
+      "count": 43
+    },
+    {
+      "date": "2026-11-26",
       "level": 0,
       "count": 0
     }
